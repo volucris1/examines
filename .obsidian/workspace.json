@@ -11,11 +11,9 @@
             "id": "b91c5074fda0f9cc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Биология.md",
-                "mode": "source",
-                "source": false
+                "file": "Биология/9 Класс/Продвинутый/Pasted image 20230106142446.png"
               }
             }
           },
@@ -83,12 +81,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Биология.md"
+                "file": "Биология/9 Класс/Продвинутый/Pasted image 20230106142446.png"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -108,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Биология.md",
+                "file": "Биология/9 Класс/Продвинутый/Pasted image 20230106142446.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Биология.md",
+                "file": "Биология/9 Класс/Продвинутый/Pasted image 20230106142446.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,10 +157,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b91c5074fda0f9cc",
+  "active": "f03c73a7cf23976f",
   "lastOpenFiles": [
+    "Биология/9 Класс/Продвинутый/Биология 9 класс (продвинутый).md",
+    "Биология/9 Класс/Продвинутый/Pasted image 20230108111716.png",
     "Учебниики.md",
-    "Биология.md",
     "Химия.md"
   ]
 }
