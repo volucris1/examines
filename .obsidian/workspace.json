@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b91c5074fda0f9cc",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Биология/9 Класс/Продвинутый/Pasted image 20230106142446.png"
-              }
-            }
-          },
-          {
             "id": "6b448a1edf6b48f6",
             "type": "leaf",
             "state": {
@@ -81,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Биология/9 Класс/Продвинутый/Pasted image 20230106142446.png"
+                "file": "Учебниики.md"
               }
             }
           }
@@ -105,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Биология/9 Класс/Продвинутый/Pasted image 20230106142446.png",
+                "file": "Учебниики.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Биология/9 Класс/Продвинутый/Pasted image 20230106142446.png",
+                "file": "Учебниики.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,8 +147,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f03c73a7cf23976f",
+  "active": "6b448a1edf6b48f6",
   "lastOpenFiles": [
+    "Биология/9 Класс/Продвинутый/Pasted image 20230106142446.png",
     "Биология/9 Класс/Продвинутый/Биология 9 класс (продвинутый).md",
     "Биология/9 Класс/Продвинутый/Pasted image 20230108111716.png",
     "Учебниики.md",
