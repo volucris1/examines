@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1850229c69f3bdb8",
+        "id": "9e9a7bed39278afa",
         "type": "tabs",
         "children": [
           {
-            "id": "00b6b5c85af3609c",
+            "id": "0626deeecb7d5b41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Биология/9 Класс/Начальный/Биология.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8a2a64dea0e6ee2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Биология/9 Класс/Начальный/TODO.md",
+                "file": "ЕГЭ/Задания.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,11 +71,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Биология/9 Класс/Начальный/Биология.md"
+                "file": "ЕГЭ/Задания.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -107,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Биология/9 Класс/Начальный/Биология.md",
+                "file": "ЕГЭ/Задания.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Биология/9 Класс/Начальный/Биология.md",
+                "file": "ЕГЭ/Задания.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +148,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "00b6b5c85af3609c",
+  "active": "86093e8ad0c63815",
   "lastOpenFiles": [
     "Биология/9 Класс/Начальный/TODO.md",
     "Биология/9 Класс/Начальный/Биология.md",
